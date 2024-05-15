@@ -1,0 +1,7 @@
+Aqui van los logs
+Cambio remoto
+Este es un cambio remoto
+
+Aqui van los logs
+Cambio remoto
+Este es un cambio local
